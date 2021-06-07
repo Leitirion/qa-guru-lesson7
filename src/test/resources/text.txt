@@ -1,0 +1,1 @@
+QA is a subset of the software development life cycle (SDLC), and QA automation means using automated testing tools to run tests on the software being developed and report on the results. Automation testing handles many of the time-consuming tasks that were previously carried out by manual testers.
